@@ -3,7 +3,7 @@ Robot mapping with ROS and Gazebo
 
 Was build for a project at my university.
 
-Map a enivronemnt from Gazebo with a Turtlebot3 robot
+Map a enivronemnt from Gazebo with a Turtlebot3 robot in Python and publish the map to RVIZ.
 
 ------------------------------------------------------------------------------------------
 ### Folder structure

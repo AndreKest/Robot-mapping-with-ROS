@@ -6,11 +6,11 @@ Was build for a project at my university.
 ------------------------------------------------------------------------------------------
 ### Folder structure
 .<br>
-├── build                   # Compiled folder with colcon<br>
-├── install                 # setup data<br>
-├── launch                  # launch files<br>
-├── log                     # Log-files from ROS2<br>
-├── src                     # Own Paket (here: py_mapping)<br>
+├── build                   &emsp;# Compiled folder with colcon<br>
+├── install                 &emsp;# setup data<br>
+├── launch                  &emsp;# launch files<br>
+├── log                     &emsp;# Log-files from ROS2<br>
+├── src                     &emsp;# Own Paket (here: py_mapping)<br>
 └── readme.md<br>
 
 

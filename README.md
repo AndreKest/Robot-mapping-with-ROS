@@ -5,13 +5,13 @@ Was build for a project at my university.
 
 ------------------------------------------------------------------------------------------
 ### Folder structure
-.
-├── build                   # Compiled folder with colcon
-├── install                 # setup data
-├── launch                  # launch files
-├── log                     # Log-files from ROS2
-├── src                     # Own Paket (here: py_mapping)
-└── readme.md
+.<br>
+├── build                   # Compiled folder with colcon<br>
+├── install                 # setup data<br>
+├── launch                  # launch files<br>
+├── log                     # Log-files from ROS2<br>
+├── src                     # Own Paket (here: py_mapping)<br>
+└── readme.md<br>
 
 
 ------------------------------------------------------------------------------------------

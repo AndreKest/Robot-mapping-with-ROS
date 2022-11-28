@@ -3,6 +3,8 @@ Robot mapping with ROS and Gazebo
 
 Was build for a project at my university.
 
+Map a enivronemnt from Gazebo with a Turtlebot3 robot
+
 ------------------------------------------------------------------------------------------
 ### Folder structure
 .<br>
@@ -33,12 +35,11 @@ rosdep update
 
 ------------------------------------------------------------------------------------------
 ### Start project
-cd ros2_ws/                           # go to folder this folder
-build colcon                          # build project
-. install/setup.bash                  # start setup
-
-cd launch/                            # go to launch folder ./launch
-ros2 launch mapping_house.launch.py   # start project
-                                      # RVIZ2, GAZEBO, Controlling and py_mapping 
+cd ros2_ws/                           &emsp;&emsp;# go to folder this folder<br>
+build colcon                          &emsp;&emsp;# build project<br>
+. install/setup.bash                  &emsp;&emsp;# start setup<br>
+export TURTLEBOT3_MODEL=burger        &emsp;&emsp;# add robot for simulation<br>
+cd launch/                            &emsp;&emsp;# go to launch folder ./launch<br>
+ros2 launch mapping_house.launch.py   &emsp;&emsp;# start project | RVIZ2, GAZEBO, Controlling and py_mapping <br>
 
 ------------------------------------------------------------------------------------------

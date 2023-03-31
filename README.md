@@ -17,7 +17,7 @@ Map an enivronemnt from Gazebo with a Turtlebot3 robot simulation in Python and 
 
 
 ------------------------------------------------------------------------------------------
-### Versionen:
+### Version:
 
 Python: 3.10.6<br>
 ROS2:   ROS-Humble<br>
@@ -26,7 +26,7 @@ GAZEBO: 11.10.2<br>
 
 
 ------------------------------------------------------------------------------------------
-### Installieren ROS2 und Pakete
+### Install ROS2 and Packages
 
 sudo apt install ros-humble-desktop-full ros-humble-gazebo-* ros-humble-navigation2 ros-humble-nav2-bringup ros-humble-turtlebot3* ros-humble-dynamixel-sdk python3-colcon-common-extensions python3-rosdep
 sudo rosdep init
